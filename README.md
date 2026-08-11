@@ -63,4 +63,3 @@ This project explores e-commerce sales data to answer key business questions:
 Learning Data Analytics through hands-on projects. Currently building my portfolio in Excel and Power BI, and actively looking for entry-level opportunities in Data Analytics / Business Intelligence.
 
 **Connect with me:** [https://www.linkedin.com/in/nasrath-banu-a-016b952b4]
-<img width="763" height="625" alt="E-Commerce Pivot Charts and Tables" src="https://github.com/user-attachments/assets/3bcdfd38-ce44-42c6-a270-eba37293e4b2" />
