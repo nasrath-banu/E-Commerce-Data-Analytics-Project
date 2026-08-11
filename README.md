@@ -53,8 +53,8 @@ This project explores e-commerce sales data to answer key business questions:
 ## 📷 Screenshots
 
 ![Dashboard](E-Commerce_Sales_Analysis_Dashboard.png)
-|[Excel Dashboard] (E-Commerce_Sales_Analysis_Dashboard_Excel.png)
-![Pivot Tables and Charts](E-Commerce_Analysis_Pivot_charts_and_tables.png)
+|[Excel Dashboard](E-Commerce_Sales_Dashboard_Excel.png)
+![Pivot Tables and Charts](E-Commerce_Pivot_Charts_and_Tables.png)
 
 ---
 
