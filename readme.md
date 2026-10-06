@@ -105,7 +105,6 @@ A retailer needs to know where revenue and profit actually come from before deci
 | File | Description |
 |---|---|
 | `.xlsx` workbook | Dataset, pivot tables, pivot charts and Excel dashboard |
-| `images/` | Power BI dashboard, Excel dashboard and pivot table screenshots |
 | `README.md` | Project documentation |
 | `.pbix` | Power BI Dashboard |
 
