@@ -63,7 +63,7 @@ A retailer needs to know where revenue and profit actually come from before deci
 - Total Profit by Category
 - Top 5 Products by Profit
 
-![Power BI dashboard](images/powerbi_dashboard.png)
+![Power BI dashboard](E-Commerce_Sales_Analysis_Dashboard.png)
 
 ### Excel version
 - KPI cards: Gross Sales, Total Profit, Quantity, Average Sales
@@ -71,11 +71,11 @@ A retailer needs to know where revenue and profit actually come from before deci
 - Quantity Sold by Product
 - Slicers: Category, Product Name, Region
 
-![Excel dashboard](images/excel_dashboard.png)
+![Excel dashboard](E-Commerce_Sales_Dashboard_Excel.png)
 
 ### Pivot tables behind the dashboards
 
-![Pivot tables](images/pivot_tables.png)
+![Pivot tables](E-Commerce_Pivot_Charts_and_Tables.png)
 
 ---
 
@@ -107,8 +107,7 @@ A retailer needs to know where revenue and profit actually come from before deci
 | `.xlsx` workbook | Dataset, pivot tables, pivot charts and Excel dashboard |
 | `images/` | Power BI dashboard, Excel dashboard and pivot table screenshots |
 | `README.md` | Project documentation |
-
-The Power BI file (`.pbix`) is not included in this repository. The screenshots show the complete working dashboard, and the file is available on request.
+| `.pbix` | Power BI Dashboard |
 
 ---
 
@@ -120,4 +119,4 @@ I build **Power BI dashboards, Excel reporting and data cleaning pipelines** tha
 - Excel analysis, pivot reporting and automation
 - Data cleaning and analysis with Python and SQL
 
-**Contact:** `<your-email>` | `<Upwork / Fiverr profile link>` | [LinkedIn](https://www.linkedin.com/in/nasrath-banu-a-016b952b4)
+**Contact:** `nasrathbanu30@gmail.com` | `<Upwork / Fiverr profile link>` | [LinkedIn](https://www.linkedin.com/in/nasrath-banu-a-016b952b4)
