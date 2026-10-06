@@ -63,7 +63,7 @@ A retailer needs to know where revenue and profit actually come from before deci
 - Total Profit by Category
 - Top 5 Products by Profit
 
-![Power BI dashboard](E-Commerce_Sales_Analysis_Dashboard.png)
+![Power BI dashboard](E-Commerce_Dashboard.png)
 
 ### Excel version
 - KPI cards: Gross Sales, Total Profit, Quantity, Average Sales
@@ -71,7 +71,7 @@ A retailer needs to know where revenue and profit actually come from before deci
 - Quantity Sold by Product
 - Slicers: Category, Product Name, Region
 
-![Excel dashboard](E-Commerce_Sales_Dashboard_Excel.png)
+![Excel dashboard](E-Commerce_Sales_Dashbaord_Excel.png)
 
 ### Pivot tables behind the dashboards
 
